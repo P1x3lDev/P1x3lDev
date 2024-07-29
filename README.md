@@ -1,10 +1,9 @@
 Yooo, its me, i think.
 
-Currently trying to learn 5 languages,
+Currently trying to learn 4 languages,
 Python
-C/C++
+Rust
 C#
 Javascript
-Kotlyn
 
 Lets see how this will go
